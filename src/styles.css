@@ -1,1 +1,14 @@
-/* You can add global styles to this file, and also import other style files */
+@import 'primeflex/primeflex.css';
+
+.bg-primary {
+  background-color: #1976d2 !important;
+  color: #fff !important;
+}
+
+.w-496px {
+  width: 496px !important;
+}
+
+.h-66px {
+  height: 66px !important;
+}
